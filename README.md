@@ -7,4 +7,5 @@ This project tracks my fitness progress. I’m documenting my daily habits and i
 - diet.txt → logs food intake
 - progress.txt → weekly status
 
-Maintained using Git branches & commits to practice version control.
+Maintained using Git branches & commits to practice version control
+Happy to greateful to transform into a disciplained lifestyle.
