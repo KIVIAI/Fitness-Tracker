@@ -8,3 +8,4 @@ This project tracks my fitness progress. I’m documenting my daily habits and i
 - progress.txt → weekly status
 
 Maintained using Git branches & commits to practice version control.
+very exited to see the changes in my mind.
